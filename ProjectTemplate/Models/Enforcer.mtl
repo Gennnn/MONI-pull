@@ -1,0 +1,43 @@
+# Blender 5.0.0 MTL File: 'game.blend'
+# www.blender.org
+
+newmtl EnforcerBottomBodyMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnforcerBottomBodyTex.png
+
+newmtl EnforcerEyesBackMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.866667 0.886275 0.894118
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl EnforcerEyesMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnforcerEyesTex.png
+
+newmtl EnforcerMainBodyMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnforcerMainBodyTex.png
+bump EnforcerMainBodyTex_normal.png

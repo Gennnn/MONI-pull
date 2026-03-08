@@ -1,0 +1,24 @@
+# Blender 5.0.0 MTL File: 'game.blend'
+# www.blender.org
+
+newmtl TreasureMainMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd TreasureMainTex.png
+bump TreasureMainTex_normal.png
+
+newmtl TreasureOutsideMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd TreasureOutsideTex.png
+bump TreasureOutsideTex_normal.png

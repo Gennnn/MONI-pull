@@ -1,0 +1,263 @@
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Battery.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -2.142015 Right 2.297986 Bottom -1.494328 Top 1.505672 Near -1.070889 Far 1.518261
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Bullet.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Cactus.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -4.622127 Right 4.622127 Bottom 0.000033 Top 10.657980 Near -1.911183 Far 1.915005
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Cactus2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -4.622127 Right 4.622127 Bottom 0.000033 Top 10.657980 Near -1.911183 Far 1.915005
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Door1A1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Door1A2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.013427 Right 1.013427 Bottom -5.975408 Top 5.975408 Near -3.741079 Far 3.741079
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Door1B1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Door1B2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Door1C1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Door1C2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.013427 Right 1.013427 Bottom -5.975408 Top 5.975408 Near -3.741079 Far 3.741079
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Enforcer.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -3.833340 Right 3.658340 Bottom -2.056596 Top 2.143404 Near -3.461008 Far 5.813992
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Ground.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -75.000000 Right 75.000000 Bottom 0.000000 Top 0.000000 Near -75.000000 Far 75.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Moni.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -2.360001 Right 0.800000 Bottom -1.660934 Top 1.240001 Near 0.320000 Far 4.240002
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	OPBullet.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -2.160000 Right 2.160000 Bottom -2.159854 Top 2.160146 Near -1.037654 Far 3.282345
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	RegBullet.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.800000 Right 0.800000 Bottom -0.799946 Top 0.800054 Near 0.933763 Far 2.533763
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subGround1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	SubGround2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Treasure.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.859537 Right 0.859537 Bottom -0.818834 Top 0.818834 Near -0.974085 Far 0.974085
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Wall 4.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.757481 Right 0.757481 Bottom -1.727239 Top 1.727239 Near -25.277910 Far 25.277910
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Game Level File Reading Complete.
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Begin Importing .H2B File Data.
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Battery.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Bullet.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Cactus.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Cactus2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Door1A1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Door1A2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Door1B1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Door1B2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Door1C1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Door1C2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Enforcer.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Ground.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Moni.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: OPBullet.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: RegBullet.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: SubGround2.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Treasure.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Wall 4.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: Wall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: subGround1.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[INFO]	H2B Imported: subWall.h2b
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Tue Feb 17 12:42:44 2026] ThreadID[30580]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Begin Reading Game Level Text File.
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Battery.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -2.142015 Right 2.297986 Bottom -1.494328 Top 1.505672 Near -1.070889 Far 1.518261
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Bullet.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Cactus.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -4.622127 Right 4.622127 Bottom 0.000033 Top 10.657980 Near -1.911183 Far 1.915005
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Cactus2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -4.622127 Right 4.622127 Bottom 0.000033 Top 10.657980 Near -1.911183 Far 1.915005
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1A1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1A2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013427 Right 1.013427 Bottom -5.975408 Top 5.975408 Near -3.741079 Far 3.741079
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1B1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1B2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1C1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1C2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013427 Right 1.013427 Bottom -5.975408 Top 5.975408 Near -3.741079 Far 3.741079
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1D1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013425 Right 1.013425 Bottom -5.975400 Top 5.975400 Near -3.741080 Far 3.741080
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Door1D2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.013427 Right 1.013427 Bottom -5.975408 Top 5.975408 Near -3.741079 Far 3.741079
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Enforcer.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -3.833340 Right 3.658340 Bottom -2.056596 Top 2.143404 Near -3.461008 Far 5.813992
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Ground.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -75.000000 Right 75.000000 Bottom 0.000000 Top 0.000000 Near -75.000000 Far 75.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Moni.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -2.360001 Right 0.800000 Bottom -1.660934 Top 1.240001 Near 0.320000 Far 4.240002
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OPBullet.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -2.160000 Right 2.160000 Bottom -2.159854 Top 2.160146 Near -1.037654 Far 3.282345
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -18.750000 Far 18.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -18.750000 Far 18.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWallA.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -18.750000 Far 18.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWallA.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -18.750000 Far 18.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -5.250000 Far 5.250000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -5.250000 Far 5.250000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWallC.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -7.586832 Far 7.586832
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	OutsideWallC.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -7.586832 Far 7.586832
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	RegBullet.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.800000 Right 0.800000 Bottom -0.799946 Top 0.800054 Near 0.933763 Far 2.533763
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subGround1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	SubGround2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subGround3.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -25.000000 Far 25.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallA.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -38.421352 Far 38.421352
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -7.500000 Far 7.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -7.500000 Far 7.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -7.500000 Far 7.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -7.500000 Far 7.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -13.750000 Far 13.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -13.750000 Far 13.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -13.750000 Far 13.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -13.750000 Far 13.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -13.750000 Far 13.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -13.750000 Far 13.750000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -5.500000 Far 5.500000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -1.317500 Right 1.317500 Bottom -5.212500 Top 5.212500 Near -9.900000 Far 9.900000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Treasure.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.859537 Right 0.859537 Bottom -0.818834 Top 0.818834 Near -0.974085 Far 0.974085
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Wall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -75.000000 Far 75.000000
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Game Level File Reading Complete.
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Begin Importing .H2B File Data.
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Battery.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Bullet.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Cactus.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Cactus2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1A1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1A2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1B1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1B2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1C1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1C2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1D1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Door1D2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Enforcer.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Ground.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Moni.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: OPBullet.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: OutsideWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: OutsideWallA.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: OutsideWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: OutsideWallC.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: RegBullet.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: SubGround2.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Treasure.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: Wall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subGround1.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subGround3.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subWall.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subWallA.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subWallB.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subWallD.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subWallE.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[INFO]	H2B Imported: subWallF.h2b
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Tue Feb 17 13:44:27 2026] ThreadID[40928]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]

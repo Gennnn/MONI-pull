@@ -1,0 +1,44 @@
+# Blender 5.0.0 MTL File: 'game.blend'
+# www.blender.org
+
+newmtl EnemyAccentMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.200000 0.000000 0.000533
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnemyAccentTex.png
+bump EnemyAccentTex_normal.png
+
+newmtl EnemyBodyMat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnemyBodyTex.png
+bump EnemyBodyTex_normal.png
+
+newmtl EnemyMetal1Mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnemyMetal1Tex.png
+
+newmtl EnemyMetal2Mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd EnemyMetal2Tex.png

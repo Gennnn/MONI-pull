@@ -1,0 +1,11 @@
+This folder shows how to setup a 3D application purely with the EnTT ECS.
+To build this project you need to install CMake and have the Vulkan SDK.
+
+Software: 
+https://CMake.org
+https://www.lunarg.com/vulkan-sdk/
+
+After installing reboot your machine and run: "cmake -S ./ -B ./build"
+in a command prompt located in this folder. The .sln will be in the build folder.
+
+This example only clears the screen to a blue-gray initially.
